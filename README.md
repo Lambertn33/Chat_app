@@ -16,3 +16,8 @@ for setting up the project:
 
 #test
   open the project in two browsers and join the same room (eg: names: lamb, room 123 and names: eric, room 123)
+
+#Demonstration
+1. https://github.com/Lambertn33/Chat_app/assets/60555392/1a624613-bd4e-4c30-a58f-99b4003be6ef
+2. https://github.com/Lambertn33/Chat_app/assets/60555392/e6ed0d30-7004-498d-a1ae-c18a9fcb0da1
+3. https://github.com/Lambertn33/Chat_app/assets/60555392/df0197b9-a944-4a0e-a8df-5f1d561856e8
